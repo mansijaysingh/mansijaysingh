@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there 👋 I'm Mansi
 
-<!--
-**mansijaysingh/mansijaysingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Frontend Developer** passionate about building beautiful and responsive websites.  
+Currently learning **React.js** and building real-world projects.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Skills
+
+- 💻 HTML5, CSS3, JavaScript (ES6+)
+- 🎨 Responsive Design (Flexbox, Grid, Media Queries)
+- ⚛️ React.js (Basics, Components, Props, State)
+- 🧰 Git & GitHub
+- 🛠️ VS Code, Chrome DevTools
+
+---
+
+### 📫 Contact Me
+
+- 📧 Email: mansisingh.am000@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/mansi-singh-a590b6319
+- 🌐 Portfolio: Coming Soon...
+
+---
+
+_“Code, Create, Repeat.” 💻_
