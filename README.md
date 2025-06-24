@@ -19,7 +19,7 @@ Currently learning **React.js** and building real-world projects.
 
 - 📧 Email: mansisingh.am000@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/mansi-singh-a590b6319
-- 🌐 Portfolio: Coming Soon...
+- 🌐 Portfolio: https://mansijay.netlify.app/
 
 ---
 
