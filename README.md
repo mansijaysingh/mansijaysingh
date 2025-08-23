@@ -44,7 +44,7 @@ I'm an AI Engineer passionate about building intelligent, end-to-end application
       <td width="50%" valign="top">
         <h3 align="center">Omnifood Website</h3>
         <a href="https://github.com/mansijaysingh/omnifood-project" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mansijaysingh&https://github.com/mansijaysingh/omnifood-project&theme=dark&border_color=2e3440&title_color=88c0d0&text_color=d8dee9&icon_color=88c0d0" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mansijaysingh&repo=omnifood-project&theme=dark&border_color=2e3440&title_color=88c0d0&text_color=d8dee9&icon_color=88c0d0" />
         </a>
       </td>
     </tr>
