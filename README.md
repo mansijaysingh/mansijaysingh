@@ -13,13 +13,10 @@ I'm an AI Engineer passionate about building intelligent, end-to-end application
 
 ### 📫 How to Reach Me:
 <p align="center">
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:mansisingh.am000@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://your-portfolio-website.com">
-    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=hugo&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-profile/">
+  </a>;
+  <a href="https://www.linkedin.com/in/mansi-ai/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
@@ -56,9 +53,9 @@ I'm an AI Engineer passionate about building intelligent, end-to-end application
 
 ### 🤖 Other Noteworthy Projects
 
--   **Career Counselor AI Bot**: An interactive chatbot designed to provide initial career guidance and answer user questions about different professional paths. ([Source Code]("[LINK_TO_CAREER_BOT_REPO]"))
--   **RAG-Powered FAQ Bot**: An advanced chatbot that leverages Retrieval-Augmented Generation to answer questions from a specific knowledge base. ([Source Code]("[LINK_TO_FAQ_BOT_REPO]"))
--   **Conversational Chatbot**: A foundational project demonstrating core concepts of conversational AI and memory management in LangChain. ([Source Code]("[LINK_TO_CHATBOT_REPO]"))
+-   **Career Counselor AI Bot**: An interactive chatbot designed to provide initial career guidance and answer user questions about different professional paths.
+-   **RAG-Powered FAQ Bot**: An advanced chatbot that leverages Retrieval-Augmented Generation to answer questions from a specific knowledge base. 
+-   **Conversational Chatbot**: A foundational project demonstrating core concepts of conversational AI and memory management in LangChain.
 
 ---
 
