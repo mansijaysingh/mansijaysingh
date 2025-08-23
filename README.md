@@ -1,6 +1,6 @@
 ### Hi there, I'm Mansi! 👋
 
-I'm a passionate learner on a 60-day journey to master Large Language Models (LLMs) and AI application development. I'm currently focused on building practical, end-to-end projects and deepening my understanding of Python, LangChain, and deploying AI solutions. My goal is to secure an internship or a role where I can contribute to building the next generation of AI tools.
+I'm a passionate developer with a strong focus on building end-to-end applications powered by Large Language Models (LLMs). I enjoy turning complex problems into simple, interactive web solutions. Currently, I'm deepening my expertise in Python, LangChain, and AI deployment strategies, with the goal of contributing to innovative AI-driven products.
 
 ---
 
@@ -8,10 +8,29 @@ I'm a passionate learner on a 60-day journey to master Large Language Models (LL
 
 <table>
   <tr>
-    <td>
-      <a href="https://github.com/mansijaysingh/ai-code-explainer-tool">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mansijaysingh&repo=ai-code-explainer-tool&theme=radical" />
-      </a>
+    <td width="50%">
+      <h3 align="center">AI Code Explainer Tool</h3>
+      <p align="center">
+        <a href="https://ai-code-explainer-tool.onrender.com" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mansijaysingh&repo=ai-code-explainer-tool&theme=radical" />
+        </a>
+      </p>
+      <p>A full-stack web app that uses LangChain and OpenAI to explain code snippets in plain English. Built with a Flask backend and a modern, interactive frontend.</p>
+      <p align="center">
+        <b><a href="https://ai-code-explainer-tool.onrender.com">Live Demo</a></b> | <b><a href="https://github.com/mansijaysingh/ai-code-explainer-tool">Source Code</a></b>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Omnifood Website</h3>
+      <p align="center">
+        <a href="https://omnifood-mansi.netlify.app/" target="_blank">
+          <img src="https://user-images.githubusercontent.com/26274203/123162232-a72a7480-d49c-11eb-9887-1de51785566f.png" alt="Omnifood Project Screenshot" />
+        </a>
+      </p>
+      <p>A responsive, modern food delivery website landing page built with a strong focus on clean design and user experience. Implemented using pure HTML, CSS, and JavaScript.</p>
+      <p align="center">
+        <b><a href="https://omnifood-mansi.netlify.app/">Live Demo</a></b> | <b><a href="[Link to Omnifood GitHub Repo]">Source Code</a></b>
+      </p>
     </td>
   </tr>
 </table>
@@ -19,8 +38,6 @@ I'm a passionate learner on a 60-day journey to master Large Language Models (LL
 ---
 
 ### 🛠️ My Tech Stack
-
-Here are some of the technologies I'm working with:
 
 <table>
   <tr>
@@ -50,8 +67,6 @@ Here are some of the technologies I'm working with:
     </td>
   </tr>
 </table>
-
-_Note: I am actively learning LangChain and other AI/LLM-related technologies._
 
 ---
 
