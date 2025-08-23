@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm Mansi! 👋</h1>
-  <h3>AI Engineer | Full-Stack Developer | Lifelong Learner</h3>
+  <h3>AI Engineer | Front-End Developer | Lifelong Learner</h3>
 </div>
 
 ---
@@ -32,7 +32,6 @@ I'm an AI Engineer passionate about building intelligent, end-to-end application
 
 ### 🚀 My Showcase Projects
 
-### 🚀 My Showcase Projects
 
 <div align="center">
   <table>
@@ -63,7 +62,7 @@ I'm an AI Engineer passionate about building intelligent, end-to-end application
 
 ### 🤖 Other Noteworthy Projects
 
--   **Career Counselor AI Bot**: An interactive chatbot designed to provide initial career guidance and answer user questions about different professional paths.
+-   **Weather App**:  A clean and responsive app that provides real-time weather data for any city. Built with Python and Flask, this application fetches data from a live weather API and displays it in a user-friendly interface.
 -   **RAG-Powered FAQ Bot**: An advanced chatbot that leverages Retrieval-Augmented Generation to answer questions from a specific knowledge base. 
 -   **Conversational Chatbot**: A foundational project demonstrating core concepts of conversational AI and memory management in LangChain.
 
