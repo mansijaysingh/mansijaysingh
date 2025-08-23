@@ -1,83 +1,76 @@
-### Hi there, I'm Mansi! 👋
-
-I'm a passionate developer with a strong focus on building end-to-end applications powered by Large Language Models (LLMs). I enjoy turning complex problems into simple, interactive web solutions. Currently, I'm deepening my expertise in Python, LangChain, and AI deployment strategies, with the goal of contributing to innovative AI-driven products.
+<div align="center">
+  <h1>Hi there, I'm Mansi! 👋</h1>
+  <h3>AI Engineer | Full-Stack Developer | Lifelong Learner</h3>
+</div>
 
 ---
 
-### 🚀 My Projects
+<p align="center">
+I'm an AI Engineer passionate about building intelligent, end-to-end applications powered by Large Language Models. I specialize in developing complex RAG pipelines, creating agentic workflows, and deploying scalable web solutions. I enjoy turning challenging problems into simple, interactive AI tools. Currently, I am deepening my expertise in advanced agentic frameworks like LangGraph.
+</p>
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">AI Code Explainer Tool</h3>
-      <p align="center">
-        <a href="https://ai-code-explainer-tool.onrender.com" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mansijaysingh&repo=ai-code-explainer-tool&theme=radical" />
-        </a>
-      </p>
-      <p>A full-stack web app that uses LangChain and OpenAI to explain code snippets in plain English. Built with a Flask backend and a modern, interactive frontend.</p>
-      <p align="center">
-        <b><a href="https://ai-code-explainer-tool.onrender.com">Live Demo</a></b> | <b><a href="https://github.com/mansijaysingh/ai-code-explainer-tool">Source Code</a></b>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Omnifood Website</h3>
-      <p align="center">
-        <a href="https://omnifood-mansi.netlify.app/" target="_blank">
-          <img src="https://user-images.githubusercontent.com/26274203/123162232-a72a7480-d49c-11eb-9887-1de51785566f.png" alt="Omnifood Project Screenshot" />
-        </a>
-      </p>
-      <p>A responsive, modern food delivery website landing page built with a strong focus on clean design and user experience. Implemented using pure HTML, CSS, and JavaScript.</p>
-      <p align="center">
-        <b><a href="https://omnifood-mansi.netlify.app/">Live Demo</a></b> | <b><a href="[Link to Omnifood GitHub Repo]">Source Code</a></b>
-      </p>
-    </td>
-  </tr>
-</table>
+---
+
+### 📫 How to Reach Me:
+<p align="center">
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://your-portfolio-website.com">
+    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=hugo&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/your-linkedin-profile/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ### 🛠️ My Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,flask,fastapi,langchain,docker,gcp,git,html,css,js&theme=dark" />
+</p>
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" />
-      <br>Flask
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-      <br>JavaScript
-    </td>
-     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-      <br>HTML5
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
-      <br>CSS3
-    </td>
-     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-  </tr>
-</table>
+---
+
+### 🚀 My Projects
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <h3 align="center">AI Code Explainer</h3>
+        <a href="https://github.com/mansijaysingh/ai-code-explainer-tool" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mansijaysingh&repo=ai-code-explainer-tool&theme=dark&border_color=2e3440&title_color=88c0d0&text_color=d8dee9&icon_color=88c0d0" />
+        </a>
+      </td>
+      <td width="50%" valign="top">
+        <h3 align="center">Career Counselor AI Bot</h3>
+        <a href="[LINK_TO_YOUR_CAREER_BOT_REPO]" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mansijaysingh&repo=your-career-bot-repo-name&theme=dark&border_color=2e3440&title_color=88c0d0&text_color=d8dee9&icon_color=88c0d0" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <h3 align="center">RAG-Powered FAQ Bot</h3>
+        <a href="[LINK_TO_YOUR_FAQ_BOT_REPO]" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mansijaysingh&repo=your-faq-bot-repo-name&theme=dark&border_color=2e3440&title_color=88c0d0&text_color=d8dee9&icon_color=88c0d0" />
+        </a>
+      </td>
+       <td width="50%" valign="top">
+        <h3 align="center">Omnifood Website</h3>
+        <a href="[LINK_TO_YOUR_OMNIFOOD_REPO]" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mansijaysingh&repo=your-omnifood-repo-name&theme=dark&border_color=2e3440&title_color=88c0d0&text_color=d8dee9&icon_color=88c0d0" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
 ### 📊 My GitHub Stats
-
-![Mansi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mansijaysingh&show_icons=true&theme=radical&rank_icon=github)
-
----
-
-### 📫 How to Reach Me
-
-<a href="https://www.linkedin.com/in/your-linkedin-profile/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mansijaysingh&show_icons=true&theme=dark&border_color=2e3440&title_color=88c0d0&text_color=d8dee9&icon_color=88c0d0" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansijaysingh&layout=compact&theme=dark&border_color=2e3440&title_color=88c0d0&text_color=d8dee9" />
+</p>
