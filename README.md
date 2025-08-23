@@ -32,6 +32,8 @@ I'm an AI Engineer passionate about building intelligent, end-to-end application
 
 ### 🚀 My Showcase Projects
 
+### 🚀 My Showcase Projects
+
 <div align="center">
   <table>
     <tr>
@@ -45,6 +47,14 @@ I'm an AI Engineer passionate about building intelligent, end-to-end application
         <h3 align="center">Omnifood Website</h3>
         <a href="https://github.com/mansijaysingh/omnifood-project" target="_blank">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=mansijaysingh&repo=omnifood-project&theme=dark&border_color=2e3440&title_color=88c0d0&text_color=d8dee9&icon_color=88c0d0" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center" valign="top">
+        <h3 align="center">AI Career Counselor Bot</h3>
+        <a href="https://github.com/mansijaysingh/AI-Career-Counselor-Bot" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mansijaysingh&repo=AI-Career-Counselor-Bot&theme=dark&border_color=2e3440&title_color=88c0d0&text_color=d8dee9&icon_color=88c0d0" />
         </a>
       </td>
     </tr>
