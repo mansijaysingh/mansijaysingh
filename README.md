@@ -33,7 +33,8 @@ I'm an AI Engineer passionate about building intelligent, end-to-end application
 
 ---
 
-### 🚀 My Projects
+### 🚀 My Showcase Projects
+
 <div align="center">
   <table>
     <tr>
@@ -44,20 +45,6 @@ I'm an AI Engineer passionate about building intelligent, end-to-end application
         </a>
       </td>
       <td width="50%" valign="top">
-        <h3 align="center">Career Counselor AI Bot</h3>
-        <a href="[LINK_TO_YOUR_CAREER_BOT_REPO]" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mansijaysingh&repo=your-career-bot-repo-name&theme=dark&border_color=2e3440&title_color=88c0d0&text_color=d8dee9&icon_color=88c0d0" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" valign="top">
-        <h3 align="center">RAG-Powered FAQ Bot</h3>
-        <a href="[LINK_TO_YOUR_FAQ_BOT_REPO]" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mansijaysingh&repo=your-faq-bot-repo-name&theme=dark&border_color=2e3440&title_color=88c0d0&text_color=d8dee9&icon_color=88c0d0" />
-        </a>
-      </td>
-       <td width="50%" valign="top">
         <h3 align="center">Omnifood Website</h3>
         <a href="[LINK_TO_YOUR_OMNIFOOD_REPO]" target="_blank">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=mansijaysingh&repo=your-omnifood-repo-name&theme=dark&border_color=2e3440&title_color=88c0d0&text_color=d8dee9&icon_color=88c0d0" />
@@ -66,6 +53,12 @@ I'm an AI Engineer passionate about building intelligent, end-to-end application
     </tr>
   </table>
 </div>
+
+### 🤖 Other Noteworthy Projects
+
+-   **Career Counselor AI Bot**: An interactive chatbot designed to provide initial career guidance and answer user questions about different professional paths. ([Source Code]("[LINK_TO_CAREER_BOT_REPO]"))
+-   **RAG-Powered FAQ Bot**: An advanced chatbot that leverages Retrieval-Augmented Generation to answer questions from a specific knowledge base. ([Source Code]("[LINK_TO_FAQ_BOT_REPO]"))
+-   **Conversational Chatbot**: A foundational project demonstrating core concepts of conversational AI and memory management in LangChain. ([Source Code]("[LINK_TO_CHATBOT_REPO]"))
 
 ---
 
