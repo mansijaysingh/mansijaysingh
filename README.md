@@ -25,7 +25,7 @@ I'm an AI Engineer passionate about building intelligent, end-to-end application
 
 ### 🛠️ My Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,fastapi,langchain,docker,gcp,git,html,css,js&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,flask,fastapi,langchain,LLM,git,html,css,js&theme=dark" />
 </p>
 
 ---
