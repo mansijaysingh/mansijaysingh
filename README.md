@@ -15,7 +15,10 @@ I'm an AI Engineer passionate about building intelligent, end-to-end application
 <p align="center">
   <a href="mailto:mansisingh.am000@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>;
+  </a>
+  <a href="https://mansijaysingh.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=hugo&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/mansi-ai/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
