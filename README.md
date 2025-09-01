@@ -40,23 +40,35 @@ I'm an AI Engineer passionate about building intelligent, end-to-end application
     <tr>
       <td width="50%" valign="top">
         <h3 align="center">AI Code Explainer</h3>
-        <a href="https://github.com/mansijaysingh/ai-code-explainer-tool" target="https://ai-code-explainer-tool.onrender.com/">
+        <a href="https://ai-code-explainer-tool.onrender.com/" target="_blank">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=mansijaysingh&repo=ai-code-explainer-tool&theme=dark&border_color=2e3440&title_color=88c0d0&text_color=d8dee9&icon_color=88c0d0" />
         </a>
+        <p align="center">
+          <a href="https://ai-code-explainer-tool.onrender.com/"><b>Live Demo »</b></a> | 
+          <a href="https://github.com/mansijaysingh/ai-code-explainer-tool"><b>Source Code »</b></a>
+        </p>
       </td>
       <td width="50%" valign="top">
         <h3 align="center">Omnifood Website</h3>
-        <a href="https://github.com/mansijaysingh/omnifood-project" target="https://omnifood-mansi.netlify.app/">
+        <a href="https://omnifood-mansi.netlify.app/" target="_blank">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=mansijaysingh&repo=omnifood-project&theme=dark&border_color=2e3440&title_color=88c0d0&text_color=d8dee9&icon_color=88c0d0" />
         </a>
+        <p align="center">
+          <a href="https://omnifood-mansi.netlify.app/"><b>Live Demo »</b></a> | 
+          <a href="https://github.com/mansijaysingh/omnifood-project"><b>Source Code »</b></a>
+        </p>
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center" valign="top">
         <h3 align="center">AI Career Counselor Bot</h3>
-        <a href="https://github.com/mansijaysingh/AI-Career-Counselor-Bot" target="_blank">
+        <a href="https://career-counselor-bot.onrender.com/" target="_blank">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=mansijaysingh&repo=AI-Career-Counselor-Bot&theme=dark&border_color=2e3440&title_color=88c0d0&text_color=d8dee9&icon_color=88c0d0" />
         </a>
+        <p align="center">
+          <a href="https://career-counselor-bot.onrender.com/"><b>Live Demo »</b></a> | 
+          <a href="https://github.com/mansijaysingh/AI-Career-Counselor-Bot"><b>Source Code »</b></a>
+        </p>
       </td>
     </tr>
   </table>
