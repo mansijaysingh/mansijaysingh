@@ -1,96 +1,92 @@
-<h1 align="center">Hi 👋, I'm Mansi Singh</h1>
+<div align="center">
+  <h1>Hi there, I'm Mansi! 👋</h1>
+  <h3>AI Engineer | Front-End Developer | Lifelong Learner</h3>
+</div>
 
-<h3 align="center">
-AI Developer | Generative AI Enthusiast | Python Developer
-</h3>
-
-<br>
-
-<p align="center">
-Building LLM-powered applications using Python, OpenAI APIs, LangChain, and Streamlit.
-</p>
-
-<br>
-
-<hr>
-
-<h2>👩‍💻 About Me</h2>
-
-<ul>
-  <li>🌱 Currently learning <b>FastAPI, Advanced LangGraph & Multi-Agent AI Systems</b></li>
-  <li>🤖 Focused on <b>Generative AI, RAG & AI Agents</b></li>
-  <li>💡 Building real-world AI applications using <b>Python & OpenAI APIs</b></li>
-  <li>📫 Reach me at: <b>mansisingh.am000@gmail.com</b></li>
-</ul>
-
-<br>
-
-<hr>
-
-<h2>🚀 Tech Stack</h2>
-
-<p>
-Python • LangChain • OpenAI API • LangGraph • Flask • FastAPI • Streamlit • HTML • CSS • Git • GitHub
-</p>
-
-<br>
-
-<hr>
-
-<h2>🌟 Featured Projects</h2>
-
-<h3>🤖 AI Interview Coach</h3>
-
-<p>
-AI-powered interview preparation platform with role-based interview generation and AI-driven response evaluation.
-</p>
-
-<p>
-🔗 <a href="https://github.com/mansijaysingh/ai-interview-coach">
-AI Interview Coach Repository
-</a>
-</p>
-
-<br>
-
-<h3>💡 AI Code Explainer</h3>
-
-<p>
-LLM-powered application that converts code into beginner-friendly explanations using OpenAI APIs and LangChain.
-</p>
-
-<br>
-
-<h3>🎯 AI Career Counselor Bot</h3>
-
-<p>
-Conversational AI chatbot providing personalized career guidance with context-aware conversations.
-</p>
-
-<br>
-
-<hr>
-
-<h2>📊 GitHub Stats</h2>
+---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mansijaysingh&show_icons=true&theme=default" />
+I'm an AI Engineer passionate about building intelligent, end-to-end applications powered by Large Language Models. I specialize in developing complex RAG pipelines, creating agentic workflows, and deploying scalable web solutions. I enjoy turning challenging problems into simple, interactive AI tools. Currently, I am deepening my expertise in advanced agentic frameworks like LangGraph.
 </p>
 
-<br>
+---
 
+### 📫 How to Reach Me:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansijaysingh&layout=compact&theme=default" />
+  <a href="mailto:mansisingh.am000@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://mansijaysingh.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=hugo&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/mansi-ai/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
-<br>
+---
 
-<hr>
+### 🛠️ My Tech Stack
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,flask,fastapi,langchain,docker,gcp,git,html,css,js&theme=dark" />
+  </a>
+</p>
 
-<h2>🌐 Connect With Me</h2>
+---
 
-<p>
-<a href="https://linkedin.com/in/mansi-ai">LinkedIn</a> •
-<a href="https://github.com/mansijaysingh">GitHub</a> •
-<a href="mailto:mansisingh.am000@gmail.com">Email</a>
+### 🚀 My Showcase Projects
+
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <h3 align="center">AI Code Explainer</h3>
+        <a href="https://ai-code-explainer-tool.onrender.com/" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mansijaysingh&repo=ai-code-explainer-tool&theme=dark&border_color=2e3440&title_color=88c0d0&text_color=d8dee9&icon_color=88c0d0" />
+        </a>
+        <p align="center">
+          <a href="https://ai-code-explainer-tool.onrender.com/"><b>Live Demo »</b></a> | 
+          <a href="https://github.com/mansijaysingh/ai-code-explainer-tool"><b>Source Code »</b></a>
+        </p>
+      </td>
+      <td width="50%" valign="top">
+        <h3 align="center">Omnifood Website</h3>
+        <a href="https://omnifood-mansi.netlify.app/" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mansijaysingh&repo=omnifood-project&theme=dark&border_color=2e3440&title_color=88c0d0&text_color=d8dee9&icon_color=88c0d0" />
+        </a>
+        <p align="center">
+          <a href="https://omnifood-mansi.netlify.app/"><b>Live Demo »</b></a> | 
+          <a href="https://github.com/mansijaysingh/omnifood-project"><b>Source Code »</b></a>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center" valign="top">
+        <h3 align="center">AI Career Counselor Bot</h3>
+        <a href="https://career-counselor-bot.onrender.com/" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mansijaysingh&repo=AI-Career-Counselor-Bot&theme=dark&border_color=2e3440&title_color=88c0d0&text_color=d8dee9&icon_color=88c0d0" />
+        </a>
+        <p align="center">
+          <a href="https://career-counselor-bot.onrender.com/"><b>Live Demo »</b></a> | 
+          <a href="https://github.com/mansijaysingh/AI-Career-Counselor-Bot"><b>Source Code »</b></a>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+### 🤖 Other Noteworthy Projects
+
+-   **Weather App**:  A clean and responsive app that provides real-time weather data for any city. Built with Python and Flask, this application fetches data from a live weather API and displays it in a user-friendly interface.
+-   **RAG-Powered FAQ Bot**: An advanced chatbot that leverages Retrieval-Augmented Generation to answer questions from a specific knowledge base. 
+-   **Conversational Chatbot**: A foundational project demonstrating core concepts of conversational AI and memory management in LangChain.
+
+---
+
+### 📊 My GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mansijaysingh&show_icons=true&theme=dark&border_color=2e3440&title_color=88c0d0&text_color=d8dee9&icon_color=88c0d0" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansijaysingh&layout=compact&theme=dark&border_color=2e3440&title_color=88c0d0&text_color=d8dee9" />
 </p>
