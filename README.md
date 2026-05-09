@@ -1,92 +1,131 @@
 <div align="center">
-  <h1>Hi there, I'm Mansi! 👋</h1>
-  <h3>AI Engineer | Front-End Developer | Lifelong Learner</h3>
+
+# Hi there, I'm Mansi Singh 👋
+
+### 🤖 AI Developer | LLM Engineer | Python Enthusiast
+
+<p>
+  <a href="mailto:mansisingh.am000@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/mansi-ai"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/mansijaysingh"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://mansijaysingh.netlify.app"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+</p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Building+AI-powered+applications+%F0%9F%9A%80;LLMs+%7C+LangChain+%7C+OpenAI+API;Flask+%7C+FastAPI+%7C+Streamlit;Turning+ideas+into+intelligent+solutions+%F0%9F%A7%A0" alt="Typing SVG" />
+
 </div>
 
 ---
 
-<p align="center">
-I'm an AI Engineer passionate about building intelligent, end-to-end applications powered by Large Language Models. I specialize in developing complex RAG pipelines, creating agentic workflows, and deploying scalable web solutions. I enjoy turning challenging problems into simple, interactive AI tools. Currently, I am deepening my expertise in advanced agentic frameworks like LangGraph.
-</p>
+## 🙋‍♀️ About Me
+
+I'm an **AI Developer** from Kanpur, Uttar Pradesh, with hands-on experience building **LLM-powered applications** using Python, OpenAI APIs, and LangChain. I love turning complex AI concepts into practical, user-facing tools.
+
+- 🔭 Currently exploring **LangGraph** and **agentic AI workflows**
+- 🌱 Focused on **RAG pipelines**, **Prompt Engineering**, and **scalable AI backends**
+- 💡 Passionate about making AI accessible and useful for everyone
+- 📫 Reach me at **mansisingh.am000@gmail.com**
 
 ---
 
-### 📫 How to Reach Me:
-<p align="center">
-  <a href="mailto:mansisingh.am000@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://mansijaysingh.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=hugo&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/mansi-ai/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+## 🛠️ Tech Stack
+
+**AI / GenAI**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge&logoColor=white)
+
+**Backend & APIs**
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![REST API](https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+**Web & Tools**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
 ---
 
-### 🛠️ My Tech Stack
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,flask,fastapi,langchain,docker,gcp,git,html,css,js&theme=dark" />
-  </a>
-</p>
+## 🚀 Featured Projects
+
+### 🎤 [AI Interview Coach](https://github.com/mansijaysingh)
+> *Python • Streamlit • OpenAI API • LangChain*
+
+An AI-powered interview preparation platform that generates **role-specific technical and HR questions**, evaluates user responses, and provides **structured feedback with scoring** — simulating a real interview environment.
 
 ---
 
-### 🚀 My Showcase Projects
+### 🔍 [AI Code Explainer Tool](https://ai-code-explainer-tool.onrender.com/)
+> *Python • Flask • OpenAI API • LangChain*
 
+An LLM-powered tool that converts **any code snippet into plain-English explanations**. Built with Flask APIs and deployed on Render, it helps beginners understand complex code through intelligent, structured prompts.
+
+---
+
+### 🧭 [AI Career Counselor Bot](https://career-counselor-bot.onrender.com/)
+> *Python • LangChain • OpenAI API*
+
+A conversational AI chatbot providing **personalized career guidance** with multi-turn memory. Uses context-aware conversation and prompt engineering to simulate real-world career advisory sessions.
+
+---
+
+### 🌐 [Portfolio Website](https://mansijaysingh.netlify.app/)
+> *HTML • CSS • JavaScript*
+
+A clean, responsive personal portfolio showcasing projects and skills with interactive UI components and optimized cross-device experience.
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%" valign="top">
-        <h3 align="center">AI Code Explainer</h3>
-        <a href="https://ai-code-explainer-tool.onrender.com/" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mansijaysingh&repo=ai-code-explainer-tool&theme=dark&border_color=2e3440&title_color=88c0d0&text_color=d8dee9&icon_color=88c0d0" />
-        </a>
-        <p align="center">
-          <a href="https://ai-code-explainer-tool.onrender.com/"><b>Live Demo »</b></a> | 
-          <a href="https://github.com/mansijaysingh/ai-code-explainer-tool"><b>Source Code »</b></a>
-        </p>
-      </td>
-      <td width="50%" valign="top">
-        <h3 align="center">Omnifood Website</h3>
-        <a href="https://omnifood-mansi.netlify.app/" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mansijaysingh&repo=omnifood-project&theme=dark&border_color=2e3440&title_color=88c0d0&text_color=d8dee9&icon_color=88c0d0" />
-        </a>
-        <p align="center">
-          <a href="https://omnifood-mansi.netlify.app/"><b>Live Demo »</b></a> | 
-          <a href="https://github.com/mansijaysingh/omnifood-project"><b>Source Code »</b></a>
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center" valign="top">
-        <h3 align="center">AI Career Counselor Bot</h3>
-        <a href="https://career-counselor-bot.onrender.com/" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mansijaysingh&repo=AI-Career-Counselor-Bot&theme=dark&border_color=2e3440&title_color=88c0d0&text_color=d8dee9&icon_color=88c0d0" />
-        </a>
-        <p align="center">
-          <a href="https://career-counselor-bot.onrender.com/"><b>Live Demo »</b></a> | 
-          <a href="https://github.com/mansijaysingh/AI-Career-Counselor-Bot"><b>Source Code »</b></a>
-        </p>
-      </td>
-    </tr>
-  </table>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mansijaysingh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansijaysingh&layout=compact&langs_count=7&theme=tokyonight"/>
+
 </div>
 
-### 🤖 Other Noteworthy Projects
+<div align="center">
 
--   **Weather App**:  A clean and responsive app that provides real-time weather data for any city. Built with Python and Flask, this application fetches data from a live weather API and displays it in a user-friendly interface.
--   **RAG-Powered FAQ Bot**: An advanced chatbot that leverages Retrieval-Augmented Generation to answer questions from a specific knowledge base. 
--   **Conversational Chatbot**: A foundational project demonstrating core concepts of conversational AI and memory management in LangChain.
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mansijaysingh&theme=tokyonight)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
-### 📊 My GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mansijaysingh&show_icons=true&theme=dark&border_color=2e3440&title_color=88c0d0&text_color=d8dee9&icon_color=88c0d0" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansijaysingh&layout=compact&theme=dark&border_color=2e3440&title_color=88c0d0&text_color=d8dee9" />
-</p>
+## 🎓 Education & Training
+
+- 🎓 **Bachelor of Arts** — Bundelkhand University, Jhansi (2022)
+- 💻 **Full Stack Web Development** — Masai School
+- 🤖 **AI Development** — Self-learning (Python, LLMs, LangChain, OpenAI APIs)
+
+---
+
+## 📬 Let's Connect
+
+<div align="center">
+
+I'm always open to collaborating on interesting AI projects or just chatting about LLMs!
+
+**📧 mansisingh.am000@gmail.com**
+
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mansi-ai)
+[![Portfolio](https://img.shields.io/badge/View%20Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mansijaysingh.netlify.app)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mansijaysingh&label=Profile%20Views&color=6E40C9&style=flat" alt="Profile Views" />
+</div>
