@@ -93,7 +93,6 @@ An AI-powered interview preparation platform that generates role-specific techni
 
 ### 🌐 [Portfolio Website](https://mansijaysingh.netlify.app/)
 > *HTML • CSS • JavaScript*
-
 A clean, responsive personal portfolio showcasing projects and skills with interactive UI components and optimized cross-device experience.
 ---
 
