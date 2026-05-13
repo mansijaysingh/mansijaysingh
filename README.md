@@ -58,24 +58,36 @@ I'm an **AI Developer** from Kanpur, Uttar Pradesh, with hands-on experience bui
 
 ## 🚀 Featured Projects
 
+### 🧠 [Multi-Agent Research Assistant](https://github.com/mansijaysingh/multi-agent-research)
+> *Python • LangGraph • LangChain • OpenAI API • Tavily API • Streamlit*
+
+An autonomous AI research system that transforms user queries into structured research reports using a coordinated multi-agent workflow.
+
+- Designed a LangGraph state machine with Supervisor, Search, Summarizer, and Writer agents
+- Integrated Tavily API for real-time web research and citation-ready report generation
+- Built a Streamlit interface for interactive report creation and workflow execution
+
+---
+
+### 🎥 [YouTube Video Q&A Bot](https://github.com/mansijaysingh/youtube-qa-bot)
+> *Python • LangChain • OpenAI API • FAISS • Streamlit*
+
+A Retrieval-Augmented Generation (RAG) application that answers user questions directly from YouTube video transcripts.
+
+- Implemented transcript extraction, recursive text chunking, and OpenAI embeddings
+- Built semantic retrieval using FAISS vector database and modern LCEL-based QA chains
+- Added transcript validation, session state management, and edge-case handling for unavailable captions
+
+---
+
 ### 🎤 [AI Interview Coach](https://github.com/mansijaysingh)
 > *Python • Streamlit • OpenAI API • LangChain*
 
-An AI-powered interview preparation platform that generates **role-specific technical and HR questions**, evaluates user responses, and provides **structured feedback with scoring** — simulating a real interview environment.
+An AI-powered interview preparation platform that generates role-specific technical and HR questions, evaluates responses, and provides structured feedback with scoring.
 
----
-
-### 🔍 [AI Code Explainer Tool](https://ai-code-explainer-tool.onrender.com/)
-> *Python • Flask • OpenAI API • LangChain*
-
-An LLM-powered tool that converts **any code snippet into plain-English explanations**. Built with Flask APIs and deployed on Render, it helps beginners understand complex code through intelligent, structured prompts.
-
----
-
-### 🧭 [AI Career Counselor Bot](https://career-counselor-bot.onrender.com/)
-> *Python • LangChain • OpenAI API*
-
-A conversational AI chatbot providing **personalized career guidance** with multi-turn memory. Uses context-aware conversation and prompt engineering to simulate real-world career advisory sessions.
+- Built dynamic interview simulations across multiple domains and difficulty levels
+- Implemented session-based interview flow and AI-powered answer evaluation
+- Delivered structured feedback and scoring using OpenAI APIs
 
 ---
 
@@ -83,7 +95,6 @@ A conversational AI chatbot providing **personalized career guidance** with mult
 > *HTML • CSS • JavaScript*
 
 A clean, responsive personal portfolio showcasing projects and skills with interactive UI components and optimized cross-device experience.
-
 ---
 
 ## 📊 GitHub Stats
