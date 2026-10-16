@@ -70,10 +70,10 @@ Pipeline that discovers fitness creators on YouTube, enriches them with real pub
 <tr>
 <td width="50%" valign="top">
 
-#### [AI Financial Audit Assistant](https://github.com/mansijaysingh/ai-financial-audit-assistant)
-Multi-agent RAG system for CA offices. Upload five financial documents and get an automated audit report with consistency checks, financial validations and 3CB verification.
+#### [YouTube Video Q&A Bot](https://github.com/mansijaysingh/youtube-qa-bot)
+A RAG app that answers questions straight from YouTube video transcripts: transcript extraction, chunking, embeddings and semantic retrieval.
 
-<sub>LangGraph · multi-agent · RAG · LLMs</sub>
+<sub>RAG · FAISS · LangChain · OpenAI · Streamlit</sub>
 
 </td>
 <td width="50%" valign="top">
@@ -87,7 +87,7 @@ A safety-focused healthcare chatbot that answers questions with retrieval-augmen
 </tr>
 </table>
 
-<sub>Also: [YouTube Video Q&A Bot](https://github.com/mansijaysingh/youtube-qa-bot) (RAG over transcripts) · [AI Resume Assistant](https://github.com/mansijaysingh/ai-resume-assistant) (match score, cover letter, tailoring) · [AI Interview Coach](https://github.com/mansijaysingh/ai-interview-coach) (role-specific mock interviews with scoring)</sub>
+<sub>Also: [AI Interview Coach](https://github.com/mansijaysingh/ai-interview-coach) (role-specific mock interviews with AI scoring and feedback)</sub>
 
 <br/>
 
