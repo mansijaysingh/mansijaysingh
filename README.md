@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:3b1f7a,100:6E40C9&height=220&section=header&text=Mansi%20Singh&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=AI%20Engineer%20%C2%B7%20Agentic%20Systems%20%C2%B7%20LLM%20Applications&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Mansi Singh, AI Engineer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,45:1d5c66,100:14B8A6&height=220&section=header&text=Mansi%20Singh&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=AI%20Engineer%20%C2%B7%20Agentic%20Systems%20%C2%B7%20LLM%20Applications&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Mansi Singh, AI Engineer"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=19&duration=3200&pause=900&color=8B6CEF&center=true&vCenter=true&width=640&lines=I+build+AI+agents+that+show+their+sources;LangGraph+%C2%B7+MCP+%C2%B7+Gemini+%C2%B7+OpenAI+%C2%B7+RAG;Evaluated%2C+traced%2C+tested+%E2%80%94+then+shipped" alt="I build AI agents that show their sources"/>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=19&duration=3200&pause=900&color=14B8A6&center=true&vCenter=true&width=640&lines=I+build+AI+agents+that+show+their+sources;LangGraph+%C2%B7+MCP+%C2%B7+Gemini+%C2%B7+OpenAI+%C2%B7+RAG;Evaluated%2C+traced%2C+tested+%E2%80%94+then+shipped" alt="I build AI agents that show their sources"/>
 
 <br/>
 
-<p><a href="https://mansijaysingh.netlify.app"><img src="https://img.shields.io/badge/Portfolio-6E40C9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a> <a href="https://linkedin.com/in/mansi-ai"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="mailto:mansisingh.am000@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> <a href="https://multi-agent-research-mansijaysingh.streamlit.app/"><img src="https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live demo"/></a></p>
+<p><a href="https://mansijaysingh.netlify.app"><img src="https://img.shields.io/badge/Portfolio-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a> <a href="https://linkedin.com/in/mansi-ai"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="mailto:mansisingh.am000@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> <a href="https://multi-agent-research-mansijaysingh.streamlit.app/"><img src="https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live demo"/></a></p>
 
 </div>
 
@@ -106,7 +106,7 @@ A safety-focused healthcare chatbot that answers questions with retrieval-augmen
 
 **AI & LLM**
 
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph"/> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/> <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="MCP"/> <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini"/> <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge" alt="OpenAI"/> <img src="https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangSmith"/> <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white" alt="FAISS"/> <img src="https://img.shields.io/badge/RAG-6E40C9?style=for-the-badge" alt="RAG"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph"/> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/> <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="MCP"/> <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini"/> <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge" alt="OpenAI"/> <img src="https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangSmith"/> <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white" alt="FAISS"/> <img src="https://img.shields.io/badge/RAG-0F766E?style=for-the-badge" alt="RAG"/>
 
 **Backend, data & tools**
 
@@ -120,7 +120,7 @@ A safety-focused healthcare chatbot that answers questions with retrieval-augmen
 
 <div align="center">
 
-<img height="165" src="https://streak-stats.demolab.com/?user=mansijaysingh&hide_border=true&background=00000000&ring=8B6CEF&fire=8B6CEF&currStreakLabel=8B6CEF&sideLabels=8b949e&dates=8b949e&currStreakNum=8b949e&sideNums=8b949e" alt="GitHub streak"/>
+<img height="165" src="https://streak-stats.demolab.com/?user=mansijaysingh&hide_border=true&background=00000000&ring=14B8A6&fire=14B8A6&currStreakLabel=14B8A6&sideLabels=8b949e&dates=8b949e&currStreakNum=8b949e&sideNums=8b949e" alt="GitHub streak"/>
 
 </div>
 
@@ -138,8 +138,8 @@ A safety-focused healthcare chatbot that answers questions with retrieval-augmen
 
 **Open to AI engineering roles and collaborations.** The quickest way to reach me is [email](mailto:mansisingh.am000@gmail.com) or [LinkedIn](https://linkedin.com/in/mansi-ai).
 
-<img src="https://komarev.com/ghpvc/?username=mansijaysingh&label=Profile%20views&color=6E40C9&style=flat-square" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=mansijaysingh&label=Profile%20views&color=0F766E&style=flat-square" alt="Profile views"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E40C9,50:3b1f7a,100:0d1117&height=110&section=footer" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14B8A6,55:1d5c66,100:0f2027&height=110&section=footer" width="100%" alt=""/>
 
 </div>
